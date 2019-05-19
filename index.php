@@ -23,7 +23,7 @@ class A
             $this->$name = $value;
     }
 }
-ыы
+ыыывывы
 
 ывывывыв
 
